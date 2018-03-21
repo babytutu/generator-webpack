@@ -2,17 +2,20 @@
 > webpack4
 
 ## Installation
-
+install`yo`，update`submodule`
 ```bash
 npm install -g yo
 npm i
+npm run sub
 ```
 
-Then generate your new project:
+Then generate your new project in local:
 
 ```bash
 npm link
 ```
+
+Make new dir
 
 ```bash
 mkdir test-yo
