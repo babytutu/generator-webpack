@@ -1,3 +1,0 @@
-[submodule "app/templates/webpack-demo"]
-	path = app/templates/webpack-demo
-	url = https://github.com/babytutu/webpack-demo.git
