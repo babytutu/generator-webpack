@@ -6,7 +6,6 @@ install`yo`，update`submodule`
 ```bash
 npm install -g yo
 npm i
-npm run sub
 ```
 
 Then generate your new project in local:

@@ -4,7 +4,7 @@
   "description": "webpack4-demo generator",
   "main": "app/index.js",
   "scripts": {
-    "sub": "git submodule update --init --recursive"
+    "test": "exit 0"
   },
   "keywords": [
     "generator"
@@ -12,6 +12,6 @@
   "author": "babytutu",
   "license": "ISC",
   "dependencies": {
-    "yeoman-generator": "^2.0.3"
+    "yeoman-generator": "^2.0.5"
   }
 }
