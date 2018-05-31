@@ -22,6 +22,12 @@ cd test-yo
 yo webpack
 ```
 
+Add git hooks
+
+```bash
+npm run hooks
+```
+
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
